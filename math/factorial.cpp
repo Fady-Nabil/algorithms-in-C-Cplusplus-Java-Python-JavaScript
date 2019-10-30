@@ -15,8 +15,8 @@ else
 
 int main(){
 int i,n;
-cout<<"enter the no. for finding the factorial";
+cout<<"enter the no. for finding the factorial"<<endl;
 cin>>n;
 i=fac(n);
-cout<<"the factorial of the given no. is "<<i;
+cout<<"the factorial of the given no. is "<<i<<endl;
 }
